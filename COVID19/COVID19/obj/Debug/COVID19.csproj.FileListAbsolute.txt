@@ -1,0 +1,11 @@
+C:\VS Projects\COVID19\COVID19\bin\Debug\COVID19.exe.config
+C:\VS Projects\COVID19\COVID19\bin\Debug\COVID19.exe
+C:\VS Projects\COVID19\COVID19\bin\Debug\COVID19.pdb
+C:\VS Projects\COVID19\COVID19\obj\Debug\COVID19.csprojAssemblyReference.cache
+C:\VS Projects\COVID19\COVID19\obj\Debug\COVID19.Form1.resources
+C:\VS Projects\COVID19\COVID19\obj\Debug\COVID19.Properties.Resources.resources
+C:\VS Projects\COVID19\COVID19\obj\Debug\COVID19.csproj.GenerateResource.cache
+C:\VS Projects\COVID19\COVID19\obj\Debug\COVID19.csproj.CoreCompileInputs.cache
+C:\VS Projects\COVID19\COVID19\obj\Debug\COVID19.exe
+C:\VS Projects\COVID19\COVID19\obj\Debug\COVID19.pdb
+C:\VS Projects\COVID19\COVID19\obj\Debug\COVID19.csproj.ResolveComReference.cache
